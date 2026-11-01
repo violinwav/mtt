@@ -1,0 +1,113 @@
+{
+  "topic": "mtt-phki-b7e41c09a2d35f68",
+  "site": "https://violinwav.github.io/mtt",
+  "pairs": [
+    {
+      "id": "foxbody",
+      "name": "FOXBODY",
+      "bpm": 130,
+      "credit": "violin.wav and Maj",
+      "created": "",
+      "clock": "",
+      "sounds": "",
+      "human_side": "b",
+      "source": "source/human/foxbody.mp3",
+      "suno": "source/suno/foxbody",
+      "prompt": "Aggressive trap instrumental, 135 BPM, melodic loop, gritty 808 slides, toms, open hats, claps and snares, sparse percussion. No vocals.",
+      "suno_time": "about 16 s",
+      "suno_takes": 4,
+      "story": "This one is a slapper. I cooked it up with my bro Maj from California. This beat even got placed by one of my local friends, who hopped on it in Swiss German.",
+      "memo": "source/reveal/foxbody-memo",
+      "transcript": "",
+      "screenshot": "source/reveal/foxbody-fl",
+      "screenshot_alt": ""
+    },
+    {
+      "id": "qoban",
+      "name": "qoban",
+      "bpm": 151,
+      "credit": "violin.wav and c0de4n",
+      "created": "",
+      "clock": "",
+      "sounds": "",
+      "human_side": "a",
+      "source": "source/human/qoban.mp3",
+      "suno": "source/suno/qoban",
+      "prompt": "Dark trap instrumental, 143 BPM, melodic loop, heavy 808s, rolling hi-hats, layered snares and claps, tall percussion. No vocals.",
+      "suno_time": "about 24 s",
+      "suno_takes": 4,
+      "story": "Made this on a trip to Albania. The melody took 10 mins to make. Drums by my bro c0de4n.",
+      "memo": "source/reveal/qoban-memo",
+      "transcript": "",
+      "screenshot": "source/reveal/qoban-fl",
+      "screenshot_alt": ""
+    },
+    {
+      "id": "salsa",
+      "name": "salsa farming",
+      "bpm": 146,
+      "credit": "violin.wav",
+      "created": "",
+      "clock": "",
+      "sounds": "",
+      "human_side": "a",
+      "source": "source/human/salsa.mp3",
+      "suno": "source/suno/salsa",
+      "prompt": "Hard trap instrumental, 155 BPM, melodic loop with a wide chorus effect, punchy 808 bass, crisp hi-hats and open hats, clap and snare, light percussion. No vocals.",
+      "suno_time": "about 15 s",
+      "suno_takes": 4,
+      "story": "This is solo prod. Felt a dancy vibe that day. My closest friend xpected absolutely bodied that beat when he recorded a track on it.",
+      "memo": "source/reveal/salsa-memo",
+      "transcript": "",
+      "screenshot": "source/reveal/salsa-fl",
+      "screenshot_alt": ""
+    }
+  ],
+  "about": [
+    "Project question: when listeners can't tell a Suno track from one made by an independent producer, does knowing the human story change what they value, and if so, what does that tell us about authenticity?",
+    "This is a creative exploration, not a study. The ratings start a conversation. They don't measure or prove anything.",
+    "BPM figures come from each beat's file name and match the tempo measured from the audio. Every clip, human or Suno, is cut from past its opening bars, to keep a producer tag out of the test."
+  ],
+  "sources": [
+    {
+      "label": "Deezer: AI music has surpassed 50% of new music uploads (July 2026)",
+      "url": "https://newsroom-deezer.com/2026/07/ai-music-exceeds-50-percent-daily-uploads-deezer/"
+    },
+    {
+      "label": "Deezer/Ipsos survey on AI music, commissioned by Deezer (November 2025)",
+      "url": "https://newsroom-deezer.com/2025/11/deezer-ipsos-survey-ai-music/"
+    },
+    {
+      "label": "Newsweek: Who are The Velvet Sundown?",
+      "url": "https://newsweek.com/who-are-velvet-sundown-ai-band-2096514"
+    },
+    {
+      "label": "Suno",
+      "url": "https://suno.com/"
+    }
+  ],
+  "live_pair": "foxbody",
+  "live_seconds": 15,
+  "question": "Does knowing the human story change what we value? If it does, what does that tell us about authenticity?",
+  "hook": "At its June 2026 peak, Deezer received about 90,000 fully AI-generated tracks a day, more than half of its new uploads. Source: Deezer, July 2026.",
+  "caveat": "This is one listening, not a measurement. A change here doesn't prove where authenticity lives, and no change doesn't prove it isn't there.",
+  "caveat_room": "This is not a scientific result: a few people, one pair, rated twice, and you knew what I was asking. It can't prove where authenticity lives. It gives us something to talk about.",
+  "reflection": [
+    "Did knowing who made a clip change what you valued, or only what you said about it?",
+    "If a Suno clip moved you and you then learned where it came from, was the feeling any less real?",
+    "If a beat made quickly moves you more than one that took many hours, what does the effort add?"
+  ],
+  "pilot": {
+    "people": null,
+    "notes": []
+  },
+  "with_ai": [
+    "Suno: the system this project is about. It generated the three comparison clips from written briefs, so it shapes half of what listeners hear.",
+    "Claude: helped refine the idea against the assignment brief, drafted the Suno briefs and project text, cut and loudness-matched the clips with a script, and wrote the code for this page. That shaped the format of the test. I chose the tracks and made the final decisions on what stayed, together with feedback from my lecturer."
+  ],
+  "without_ai": [
+    "The three human tracks, made in FL Studio: FOXBODY with Maj, qoban with c0de4n, salsa farming solo.",
+    "The story behind each track, in my own words.",
+    "Listening to the clips and choosing which tracks to compare."
+  ]
+}
